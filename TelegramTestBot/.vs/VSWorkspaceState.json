@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Domain",
+    "\\Domain\\Interfaces",
+    "\\Domain\\Models",
+    "\\Infrastructure",
+    "\\Infrastructure\\Mongo",
+    "\\Infrastructure\\Parsers",
+    "\\Infrastructure\\Pdf",
+    "\\Infrastructure\\Telegram",
+    "\\obj\\Release\\net8.0\\refint"
+  ],
+  "SelectedNode": "\\Infrastructure\\Telegram\\UpdateHandler.cs",
+  "PreviewInSolutionExplorer": false
+}

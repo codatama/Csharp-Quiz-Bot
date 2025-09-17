@@ -1,0 +1,5 @@
+E:\vsc\csharp\TelegramTestBot\obj\Debug\net9.0\TelegramTestBot.csproj.AssemblyReference.cache
+E:\vsc\csharp\TelegramTestBot\obj\Debug\net9.0\TelegramTestBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsc\csharp\TelegramTestBot\obj\Debug\net9.0\TelegramTestBot.AssemblyInfoInputs.cache
+E:\vsc\csharp\TelegramTestBot\obj\Debug\net9.0\TelegramTestBot.AssemblyInfo.cs
+E:\vsc\csharp\TelegramTestBot\obj\Debug\net9.0\TelegramTestBot.csproj.CoreCompileInputs.cache
